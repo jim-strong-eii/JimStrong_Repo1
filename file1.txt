@@ -1,1 +1,6 @@
-something else on the first line
+something not expected that I want
+more changes
+third line
+this is cool stuff
+this is rad stuff
+Yet another new line
